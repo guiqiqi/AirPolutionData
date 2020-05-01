@@ -1,4 +1,4 @@
-# AirPoluionData
+# AirPolutionData
 这里是使用爬虫于2017年在空气质量监测平台 www.aqisudy.cn 所抓取的数据。
 
 这个 Repos 包含了一份爬虫代码，一份数据集合，一份简单的数据分析代码（使用 Python `Pandas` 进行分析）
